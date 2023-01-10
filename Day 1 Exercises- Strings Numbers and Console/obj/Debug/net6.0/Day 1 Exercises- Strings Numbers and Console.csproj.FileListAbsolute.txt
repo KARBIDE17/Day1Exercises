@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\bin\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.exe
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\bin\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.deps.json
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\bin\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.runtimeconfig.json
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\bin\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.dll
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\bin\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.pdb
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.AssemblyInfo.cs
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.dll
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\refint\Day 1 Exercises- Strings Numbers and Console.dll
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.pdb
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\Day 1 Exercises- Strings Numbers and Console.genruntimeconfig.cache
+C:\Users\steve\source\repos\Day 1 Exercises- Strings Numbers and Console\Day 1 Exercises- Strings Numbers and Console\obj\Debug\net6.0\ref\Day 1 Exercises- Strings Numbers and Console.dll
